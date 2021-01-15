@@ -1,1 +1,1 @@
-# requisitos 16
+# requisitos generales
